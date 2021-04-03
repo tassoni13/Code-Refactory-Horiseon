@@ -33,4 +33,4 @@ The following image shows the web application's appearance and functionality:
 
 ## Link to page
 
-file:///C:/Users/tasso/OneDrive/Desktop/MSU%20Bootcamp/Homework/Code-Refactory-Horiseon/index.html
+https://tassoni13.github.io/Code-Refactory-Horiseon/
